@@ -75,10 +75,10 @@ dependencies {
 </application>
    ```
 
-4.For each ad, provide the respective unit ID. You can replace the test unit IDs with your own production unit IDs when setting up the ads in the app.
+4. For each ad, provide the respective unit ID. You can replace the test unit IDs with your own production unit IDs when setting up the ads in the app.
 
 
-5.Build and run the application on a physical device or emulator.
+5. Build and run the application on a physical device or emulator.
 
 
 ## **Contact** 
