@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F6EE"
+    >
+
+    <!-- Title -->
+   <TextView
+    android:id="@+id/titleTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Ad Types Menu"
+       android:textColor="#1E1E1E"
+    android:textSize="26sp"
+    android:layout_marginTop="28mm"
+
+    android:textStyle="bold"
+    android:padding="16dp"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Banner Ad Button -->
+<Button
+android:id="@+id/btnBannerAd"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:text="Banner Ad"
+android:backgroundTint="#87CEFA"
+    android:textColor="#FFFFFF"
+    android:textSize="18sp"
+    android:layout_marginTop="24dp"
+    android:layout_marginHorizontal="24dp"
+    app:layout_constraintTop_toBottomOf="@id/titleTextView"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Interstitial Ad Button -->
+<Button
+android:id="@+id/btnInterstitialAd"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:text="Interstitial Ad"
+android:backgroundTint="#87CEFA"
+android:textColor="#FFFFFF"
+android:textSize="18sp"
+android:layout_marginTop="16dp"
+android:layout_marginHorizontal="24dp"
+app:layout_constraintTop_toBottomOf="@id/btnBannerAd"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Rewarded Ad Button -->
+<Button
+android:id="@+id/btnRewardedAd"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:text="Rewarded Ad"
+android:backgroundTint="#87CEFA"
+android:textColor="#FFFFFF"
+android:textSize="18sp"
+android:layout_marginTop="16dp"
+android:layout_marginHorizontal="24dp"
+app:layout_constraintTop_toBottomOf="@id/btnInterstitialAd"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Native Ad Button -->
+<Button
+android:id="@+id/btnNativeAd"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:text="Native Ad"
+android:backgroundTint="#87CEFA"
+android:textColor="#FFFFFF"
+android:textSize="18sp"
+android:layout_marginTop="16dp"
+android:layout_marginHorizontal="24dp"
+app:layout_constraintTop_toBottomOf="@id/btnRewardedAd"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Rewarded Interstitial Ad Button -->
+<Button
+android:id="@+id/btnRewardedInterstitialAd"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:text="Rewarded Interstitial Ad"
+android:backgroundTint="#87CEFA"
+android:textColor="#FFFFFF"
+android:textSize="18sp"
+android:layout_marginTop="16dp"
+android:layout_marginHorizontal="24dp"
+app:layout_constraintTop_toBottomOf="@id/btnNativeAd"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
