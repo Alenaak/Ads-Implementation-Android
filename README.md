@@ -67,7 +67,7 @@ dependencies {
 
 3. Add your AdMob App ID to the AndroidManifest.xml:
 
- ```bash
+ ```
 <application>
     <meta-data
         android:name="com.google.android.gms.ads.APPLICATION_ID"
