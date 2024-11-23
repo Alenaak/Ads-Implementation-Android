@@ -21,7 +21,7 @@ The app showcases the following types of ads:
 
 ## **Screenshots**  
 ### Main Screen  
-![Main Screen]([path_to_screenshot_main_screen.png](https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/Main%20Screen.png))
+![Main Screen](https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/Main%20Screen.png)
 
 ### Banner Ad  
 ![Banner Ad](path_to_screenshot_banner_ad.png)
