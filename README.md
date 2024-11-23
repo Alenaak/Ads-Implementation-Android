@@ -22,23 +22,22 @@ The app showcases the following types of ads:
 ## **Screenshots**  
 
 ### Main Screen  
-<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/Main%20Screen.png" alt="Main Screen" width="500"/>
+<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/Main%20Screen.png" alt="Main Screen" width="400" height="300"/>
 
 ### Banner Ad  
-<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/banner2.png" alt="Banner Ad" width="500"/>
+<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/banner2.png" alt="Banner Ad" width="400" height="300"/>
 
 ### Interstitial Ad  
-<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/interstitialad.png" alt="Interstitial Ad" width="500"/>
+<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/interstitialad.png" alt="Interstitial Ad" width="400" height="300"/>
 
 ### Rewarded Ad  
-<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/rewardedad.png" alt="Rewarded Ad" width="500"/>
+<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/rewardedad.png" alt="Rewarded Ad" width="400" height="300"/>
 
 ### Rewarded Interstitial Ad  
-<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/rewardedinterstitial.png" alt="Rewarded Interstitial Ad" width="500"/>
+<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/rewardedinterstitial.png" alt="Rewarded Interstitial Ad" width="400" height="300"/>
 
 ### Native Ad  
-<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/native%20ad.png" alt="Native Ad" width="500"/>
-
+<img src="https://github.com/Alenaak/Ads-Implementation-Android/blob/main/images/native%20ad.png" alt="Native Ad" width="400" height="300"/>
 
 ---
 
