@@ -51,12 +51,13 @@ dependencies {
     implementation 'com.google.android.gms:play-services-ads:22.0.0' // Update to the latest version
 }
 
----
 
-## **Setup**  
-Add the following dependency to your `build.gradle` file:
 
-```groovy
-dependencies {
-    implementation 'com.google.android.gms:play-services-ads:22.0.0' // Update to the latest version
-}
+
+<h2>License</h2>
+
+This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.
+
+<h2>Contact</h2>
+
+If you have any questions or suggestions, feel free to open an issue or contact me directly.
