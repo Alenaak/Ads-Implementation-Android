@@ -54,10 +54,20 @@ dependencies {
 
 
 
-<h2>License</h2>
+**License**
+-----------
 
-This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-<h2>Contact</h2>
+* * *
+
+**Contact**
+-----------
 
 If you have any questions or suggestions, feel free to open an issue or contact me directly.
+
+* * *
+
+### **Note:**
+
+This project uses test AdMob IDs. For production purposes, generate your own AdMob IDs by visiting the AdMob console.
