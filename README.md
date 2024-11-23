@@ -50,3 +50,13 @@ Add the following dependency to your `build.gradle` file:
 dependencies {
     implementation 'com.google.android.gms:play-services-ads:22.0.0' // Update to the latest version
 }
+
+---
+
+## **Setup**  
+Add the following dependency to your `build.gradle` file:
+
+```groovy
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads:22.0.0' // Update to the latest version
+}
