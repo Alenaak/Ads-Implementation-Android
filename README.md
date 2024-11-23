@@ -2,6 +2,9 @@
 This Android application demonstrates the implementation of various types of Google AdMob ads. The app consists of five buttons, each triggering a specific type of ad using AdMob's test ad IDs.
 
 ---
+### **Note:**
+
+This project uses test AdMob IDs. For production purposes, generate your own AdMob IDs by visiting the AdMob console.
 
 ## **Features**  
 The app showcases the following types of ads:  
@@ -43,6 +46,7 @@ The app showcases the following types of ads:
 
 
 
+
 ## **Dependencies**  
 Add the following dependency to your `build.gradle` file:
 
@@ -50,24 +54,15 @@ Add the following dependency to your `build.gradle` file:
 dependencies {
     implementation 'com.google.android.gms:play-services-ads:22.0.0' // Update to the latest version
 }
+```
 
 
-
-
-**License**
------------
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-* * *
-
-**Contact**
------------
-
+## **Contact** 
 If you have any questions or suggestions, feel free to open an issue or contact me directly.
 
-* * *
 
-### **Note:**
 
-This project uses test AdMob IDs. For production purposes, generate your own AdMob IDs by visiting the AdMob console.
+
+
+
+
