@@ -41,25 +41,7 @@ The app showcases the following types of ads:
 
 ---
 
-## **How It Works**  
-Each button on the main screen triggers an ad. Here's the breakdown:  
 
-- **Button 1: Banner Ad**  
-  On clicking, the app displays a test banner ad at the bottom of the screen.  
-
-- **Button 2: Interstitial Ad**  
-  On clicking, the app loads and shows an interstitial ad at an appropriate point.  
-
-- **Button 3: Rewarded Ad**  
-  On clicking, the app displays a rewarded ad and grants a reward after successful completion.  
-
-- **Button 4: Rewarded Interstitial Ad**  
-  On clicking, the app shows a rewarded interstitial ad, offering rewards while maintaining the interstitial experience.  
-
-- **Button 5: Native Ad**  
-  On clicking, the app displays a native ad that blends into the app’s UI.  
-
----
 
 ## **Dependencies**  
 Add the following dependency to your `build.gradle` file:
