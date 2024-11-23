@@ -57,21 +57,27 @@ dependencies {
 ```
 
 ## **Setup Instructions**
-1. Clone the repository:  
+1. Clone the repository:
+   
    ```bash
    git clone https://github.com/yourusername/Ads-Implementation-Android.git
    ```
-2.Open the project in Android Studio.
 
-3.Add your AdMob App ID to the AndroidManifest.xml:
+2. Open the project in Android Studio.
+
+3. Add your AdMob App ID to the AndroidManifest.xml:
+
  ```bash
 <application>
     <meta-data
         android:name="com.google.android.gms.ads.APPLICATION_ID"
         android:value="ca-app-pub-3940256099942544~3347511713"/> <!-- Test App ID used here -->
 </application>
-   ```      
+   ```
+
 4.For each ad, provide the respective unit ID. You can replace the test unit IDs with your own production unit IDs when setting up the ads in the app.
+
+
 5.Build and run the application on a physical device or emulator.
 
 
